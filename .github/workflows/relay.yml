@@ -1,4 +1,4 @@
-# DesktopCal 중계 — 10분마다 공공데이터를 받아 gh-pages 가지에 올린다 (GitHub Pages 가 공개 주소로).
+# DesktopCal 중계 — 약 9분마다 공공데이터를 받아 gh-pages 가지에 올린다 (GitHub Pages 가 공개 주소로).
 # 중계 저장소에서는 .github/workflows/relay.yml 로 둔다. 키는 저장소 Settings → Secrets and variables → Actions.
 name: relay
 
@@ -8,11 +8,11 @@ on:
                                          #  첫날 한 번도 예약되지 않아 2026-10-10 이 꼴로)
   workflow_dispatch:
   push:
-    branches: [main]                     # 중계 코드를 올리면 바로 한 번 (아래 '이어 부르기'도 여기서 시작된다)
+    branches: [main]                     # 중계 코드를 올리면 바로 한 번 (끊긴 '이어 부르기'도 여기서 다시 시작된다)
 
 permissions:
   contents: write                  # gh-pages 가지에 올리기
-  actions: write                   # 예약이 60일 뒤 멈추지 않게 · 예약이 조용할 때 다음 실행 부르기 (아래 두 단계)
+  actions: write                   # 예약이 60일 뒤 멈추지 않게 · 다음 실행 부르기 (아래 두 단계)
 
 concurrency:
   group: relay
@@ -56,19 +56,21 @@ jobs:
           if [ "$(date -u +%H%M)" \< "0010" ]; then
             gh api -X PUT "repos/${GITHUB_REPOSITORY}/actions/workflows/relay.yml/enable" > /dev/null || true
           fi
-      - name: Call the next run while the schedule is silent
-        # GitHub 예약 실행은 늦거나 빠질 수 있다 — 새 저장소에서 몇 시간 동안 한 번도 돌지 않았다 (2026-10-10).
-        # 손으로·스스로·코드를 올려 시작한 실행은, 최근 30분 안에 예약 실행이 없으면 7분 쉬고 다음 실행을 부른다.
-        # 예약이 돌기 시작하면 저절로 멈춘다. GITHUB_TOKEN 으로 부른 workflow_dispatch 는 새 실행을 만든다 (GitHub 문서).
-        if: always() && github.event_name != 'schedule'
+      - name: Call the next run
+        # GitHub 예약 실행은 몇 시간에 한 번꼴로만 돈다 (2026-10-10 ~ 12, 사흘에 12번) — 중계는 '이어 부르기'가 맡는다.
+        # 모든 실행(예약 포함)이 끝날 때 7분 쉬고, 기다리는 다른 relay 실행이 없으면 다음 실행을 부른다.
+        # 같은 묶음(concurrency)은 하나만 돌고 하나만 기다리므로 사슬은 늘 하나 — 예약 실행은 끊긴 사슬을 다시 잇는다.
+        # (2026-10-12: 예전 규칙 '최근 30분 안에 예약 실행이 있으면 멈춤'이 밀려서 취소된 예약 실행을 보고 멈춰 4시간 서 있었다)
+        # GITHUB_TOKEN 으로 부른 workflow_dispatch 는 새 실행을 만든다 (GitHub 문서).
+        if: always()
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          last=$(gh api "repos/${GITHUB_REPOSITORY}/actions/workflows/relay.yml/runs?event=schedule&per_page=1" \
-                 --jq '.workflow_runs[0].created_at // ""' || true)
-          if [ -n "$last" ] && [ $(( $(date +%s) - $(date -d "$last" +%s) )) -lt 1800 ]; then
-            echo "schedule is running ($last)"
+          sleep 420
+          q="[.workflow_runs[] | select(.status != \"completed\" and .id != ${GITHUB_RUN_ID})] | length"
+          waiting=$(gh api "repos/${GITHUB_REPOSITORY}/actions/workflows/relay.yml/runs?per_page=20" --jq "$q" || echo 0)
+          if [ "${waiting:-0}" -gt 0 ]; then
+            echo "next run is already waiting (${waiting})"
             exit 0
           fi
-          sleep 420
           gh workflow run relay.yml --ref "${GITHUB_REF_NAME}"
