@@ -1,0 +1,1303 @@
+{
+"updated": "2026-11-07T22:17:44",
+"files": {
+"kma/warning.json": {
+"tried": "2026-11-07T22:17:44",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T22:17:44"
+},
+"forest/fire.json": {
+"tried": "2026-11-07T19:40:44",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T19:40:44"
+},
+"air/alarm-2026.json": {
+"tried": "2026-11-07T22:17:44",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T22:17:44"
+},
+"air/stations.json": {
+"tried": "2026-11-07T08:34:15",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T08:34:15"
+},
+"air/now-all": {
+"tried": "2026-11-07T21:47:45",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T21:47:45"
+},
+"kasi/holidays-2026.json": {
+"tried": "2026-11-07T08:34:15",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T08:34:15"
+},
+"kasi/holidays-2027.json": {
+"tried": "2026-11-07T08:34:15",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T08:34:15"
+},
+"exim/ap01-20261028.json": {
+"tried": "2026-11-07T22:17:44",
+"ok": false
+},
+"exim/ap01-20261029.json": {
+"tried": "2026-11-07T22:17:44",
+"ok": false
+},
+"exim/ap01-20261030.json": {
+"tried": "2026-11-07T22:17:44",
+"ok": false
+},
+"exim/ap01-20261031.json": {
+"tried": "2026-11-07T22:17:44",
+"ok": false
+},
+"exim/ap01-20261101.json": {
+"tried": "2026-11-07T22:17:44",
+"ok": false
+},
+"exim/ap01-20261102.json": {
+"tried": "2026-11-07T22:17:44",
+"ok": false
+},
+"exim/ap01-20261103.json": {
+"tried": "2026-11-07T22:17:44",
+"ok": false
+},
+"exim/ap01-20261104.json": {
+"tried": "2026-11-07T22:17:44",
+"ok": false
+},
+"exim/ap01-20261105.json": {
+"tried": "2026-11-07T22:17:44",
+"ok": false
+},
+"air/forecast-2026-11-06.json": {
+"tried": "2026-11-07T21:47:45",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T21:47:45"
+},
+"tour/festival-11-20261106.json": {
+"tried": "2026-11-06T18:16:38",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-06T18:16:38"
+},
+"tour/festival-12-20261106.json": {
+"tried": "2026-11-06T18:24:58",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-06T18:24:58"
+},
+"tour/festival-26-20261106.json": {
+"tried": "2026-11-06T18:16:38",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-06T18:16:38"
+},
+"tour/festival-27-20261106.json": {
+"tried": "2026-11-06T18:16:38",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-06T18:16:38"
+},
+"tour/festival-28-20261106.json": {
+"tried": "2026-11-06T18:16:38",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-06T18:16:38"
+},
+"tour/festival-30-20261106.json": {
+"tried": "2026-11-06T18:16:38",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-06T18:16:38"
+},
+"tour/festival-31-20261106.json": {
+"tried": "2026-11-06T18:16:38",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-06T18:16:38"
+},
+"tour/festival-36-20261106.json": {
+"tried": "2026-11-06T23:40:56",
+"ok": true,
+"empty": true,
+"fetched": "2026-11-06T23:40:56"
+},
+"tour/festival-41-20261106.json": {
+"tried": "2026-11-06T18:16:38",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-06T18:16:38"
+},
+"tour/festival-43-20261106.json": {
+"tried": "2026-11-06T18:16:38",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-06T18:16:38"
+},
+"tour/festival-44-20261106.json": {
+"tried": "2026-11-06T18:16:38",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-06T18:16:38"
+},
+"tour/festival-47-20261106.json": {
+"tried": "2026-11-06T18:16:38",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-06T18:16:38"
+},
+"tour/festival-48-20261106.json": {
+"tried": "2026-11-06T18:16:38",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-06T18:16:38"
+},
+"tour/festival-50-20261106.json": {
+"tried": "2026-11-06T18:24:58",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-06T18:24:58"
+},
+"tour/festival-51-20261106.json": {
+"tried": "2026-11-06T18:16:38",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-06T18:16:38"
+},
+"tour/festival-52-20261106.json": {
+"tried": "2026-11-06T18:16:38",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-06T18:16:38"
+},
+"kobis/daily-20261105.json": {
+"tried": "2026-11-06T00:05:54",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-06T00:05:54"
+},
+"exim/ap01-20261106.json": {
+"tried": "2026-11-07T22:17:44",
+"ok": false
+},
+"air/forecast-2026-11-07.json": {
+"tried": "2026-11-07T21:32:46",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T21:32:46"
+},
+"tour/festival-11-20261107.json": {
+"tried": "2026-11-07T18:02:19",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:02:19"
+},
+"tour/festival-12-20261107.json": {
+"tried": "2026-11-07T18:02:19",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:02:19"
+},
+"tour/festival-26-20261107.json": {
+"tried": "2026-11-07T18:02:19",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:02:19"
+},
+"tour/festival-27-20261107.json": {
+"tried": "2026-11-07T18:02:19",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:02:19"
+},
+"tour/festival-28-20261107.json": {
+"tried": "2026-11-07T18:02:19",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:02:19"
+},
+"tour/festival-30-20261107.json": {
+"tried": "2026-11-07T18:02:19",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:02:19"
+},
+"tour/festival-31-20261107.json": {
+"tried": "2026-11-07T18:09:54",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:09:54"
+},
+"tour/festival-36-20261107.json": {
+"tried": "2026-11-07T22:02:46",
+"ok": true,
+"empty": true,
+"fetched": "2026-11-07T22:02:46"
+},
+"tour/festival-41-20261107.json": {
+"tried": "2026-11-07T18:02:19",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:02:19"
+},
+"tour/festival-43-20261107.json": {
+"tried": "2026-11-07T18:02:19",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:02:19"
+},
+"tour/festival-44-20261107.json": {
+"tried": "2026-11-07T18:02:19",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:02:19"
+},
+"tour/festival-47-20261107.json": {
+"tried": "2026-11-07T18:02:19",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:02:19"
+},
+"tour/festival-48-20261107.json": {
+"tried": "2026-11-07T18:02:19",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:02:19"
+},
+"tour/festival-50-20261107.json": {
+"tried": "2026-11-07T18:02:19",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:02:19"
+},
+"tour/festival-51-20261107.json": {
+"tried": "2026-11-07T18:02:19",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:02:19"
+},
+"tour/festival-52-20261107.json": {
+"tried": "2026-11-07T18:02:19",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:02:19"
+},
+"kobis/daily-20261106.json": {
+"tried": "2026-11-07T00:03:28",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T00:03:28"
+},
+"exim/ap01-20261107.json": {
+"tried": "2026-11-07T22:17:44",
+"ok": false
+},
+"kma/mid-land-11B00000-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-land-11C10000-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-land-11C20000-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-land-11D10000-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-land-11D20000-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-land-11F10000-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-land-11F20000-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-land-11G00000-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-land-11H10000-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-land-11H20000-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11A00101-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11B10101-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11B20101-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11B20102-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11B20201-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11B20203-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11B20301-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11B20302-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11B20305-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11B20401-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11B20403-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11B20502-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11B20503-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11B20601-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11B20602-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11B20604-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11B20605-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11B20606-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11B20612-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11B20701-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11B20703-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11C10101-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11C10201-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11C10301-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11C20101-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11C20104-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11C20201-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11C20301-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11C20401-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11C20402-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11C20404-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11C20602-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11D10101-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11D10301-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11D10302-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11D10401-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11D10501-202611070600.json": {
+"tried": "2026-11-07T06:19:52",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:19:52"
+},
+"kma/mid-ta-11D20301-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11D20401-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11D20501-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11D20601-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11D20602-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11E00101-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11F10201-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11F10202-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11F10203-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11F10401-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11F20301-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11F20401-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11F20405-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11F20501-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11F20503-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11G00201-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11G00401-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11H10101-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11H10201-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11H10202-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11H10302-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11H10401-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11H10501-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11H10602-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11H10701-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11H20101-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11H20102-202611070600.json": {
+"tried": "2026-11-07T06:19:52",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:19:52"
+},
+"kma/mid-ta-11H20201-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11H20301-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11H20304-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11H20401-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11H20403-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11H20502-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-11H20701-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-21F10501-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-ta-21F20801-202611070600.json": {
+"tried": "2026-11-07T06:11:34",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T06:11:34"
+},
+"kma/mid-land-11B00000-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-land-11C10000-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-land-11C20000-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-land-11D10000-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-land-11D20000-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-land-11F10000-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-land-11F20000-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-land-11G00000-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-land-11H10000-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-land-11H20000-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11A00101-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11B10101-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11B20101-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11B20102-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11B20201-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11B20203-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11B20301-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11B20302-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11B20305-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11B20401-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11B20403-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11B20502-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11B20503-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11B20601-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11B20602-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11B20604-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11B20605-202611071800.json": {
+"tried": "2026-11-07T18:25:43",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:25:43"
+},
+"kma/mid-ta-11B20606-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11B20612-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11B20701-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11B20703-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11C10101-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11C10201-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11C10301-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11C20101-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11C20104-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11C20201-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11C20301-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11C20401-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11C20402-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11C20404-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11C20602-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11D10101-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11D10301-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11D10302-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11D10401-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11D10501-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11D20301-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11D20401-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11D20501-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11D20601-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11D20602-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11E00101-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11F10201-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11F10202-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11F10203-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11F10401-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11F20301-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11F20401-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11F20405-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11F20501-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11F20503-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11G00201-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11G00401-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11H10101-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11H10201-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11H10202-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11H10302-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11H10401-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11H10501-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11H10602-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11H10701-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11H20101-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11H20102-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11H20201-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11H20301-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11H20304-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11H20401-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11H20403-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11H20502-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-11H20701-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-21F10501-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+},
+"kma/mid-ta-21F20801-202611071800.json": {
+"tried": "2026-11-07T18:17:30",
+"ok": true,
+"empty": false,
+"fetched": "2026-11-07T18:17:30"
+}
+}
+}
